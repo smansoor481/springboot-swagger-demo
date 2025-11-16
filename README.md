@@ -1,6 +1,3 @@
-# springboot-swagger-demo
-Spring Boot project with Swagger/OpenAPI documentation
-
 🚀 Spring Boot + Swagger + OpenAPI 3 Documentation
 
 This project demonstrates how to integrate Swagger, OpenAPI 3, and Springdoc OpenAPI in a Spring Boot application.
@@ -41,6 +38,7 @@ http://localhost:8080/v3/api-docs
 ▶️ How to Run
 mvn spring-boot:run
 
+
 OR
 
 java -jar target/yourapp.jar
@@ -48,7 +46,11 @@ java -jar target/yourapp.jar
 🛠 Tech Stack
 
 Java 17 / 21
+
 Spring Boot
+
 Spring Web
+
 Springdoc OpenAPI 3
+
 Maven
